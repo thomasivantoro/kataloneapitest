@@ -17,5 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WS.sendRequest(findTestObject('findOwnersByName', [('name') : '']))
 
-WS.verifyResponseStatusCode(response, 200)
+WS.verifyResponseStatusCode(response, 500)
 
