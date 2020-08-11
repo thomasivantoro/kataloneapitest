@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FindPetsByName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdb22505-a7a5-4e21-83bc-4043f65fb475</testCaseGuid>
+   <variable>
+      <defaultValue>'Dino'</defaultValue>
+      <description></description>
+      <id>fc52b7c6-2d4d-44db-a9ce-fc12859f1953</id>
+      <masked>false</masked>
+      <name>petName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DOG'</defaultValue>
+      <description></description>
+      <id>0c50630f-35f0-4ea2-8045-4351bab56e1c</id>
+      <masked>false</masked>
+      <name>petType</name>
+   </variable>
+</TestCaseEntity>

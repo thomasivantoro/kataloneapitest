@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FindOwnersByName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6586d96b-2805-47ef-b036-878af98f4da2</testCaseGuid>
+   <variable>
+      <defaultValue>'Fred'</defaultValue>
+      <description></description>
+      <id>bfcb91f1-bc5d-48ab-801f-08af7cf7e759</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'45'</defaultValue>
+      <description></description>
+      <id>9902b1ed-5f60-4c09-9252-867357277e89</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+</TestCaseEntity>
